@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 405199715ebea48e28b8b9462709458e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objectToSpawn: {instanceID: 0}
+  - objectToSpawn_2: {instanceID: 0}
+  - battlefield: {instanceID: 0}
+  - players: {fileID: 5211904959702313893, guid: 0114bda6e59e2406b99e6d69c5456923, type: 3}
+  - placementManager: {instanceID: 0}
+  - placementQuad: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
